@@ -1,0 +1,70 @@
+[
+  {
+    "timestamp": "2026-03-17T20:58:51.709768",
+    "result": {
+      "courses": [
+        {
+          "course_id": "2222",
+          "course_name": "haohga",
+          "teacher": "fhahg",
+          "added_time": "2026-03-17T20:54:09.180193",
+          "status": "failed",
+          "attempts": 1
+        }
+      ],
+      "results": {
+        "2222": false
+      },
+      "success_count": 0,
+      "total_count": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-18T10:36:04.519947",
+    "result": {
+      "courses": [
+        {
+          "course_id": "2222",
+          "course_name": "haohga",
+          "teacher": "fhahg",
+          "added_time": "2026-03-17T20:54:09.180193",
+          "status": "failed",
+          "attempts": 1,
+          "course_key": "2222|"
+        }
+      ],
+      "results": {
+        "2222|": {
+          "success": true,
+          "name": "haohga"
+        }
+      },
+      "success_count": 1,
+      "total_count": 1
+    }
+  },
+  {
+    "timestamp": "2026-03-18T10:41:23.805198",
+    "result": {
+      "courses": [
+        {
+          "course_id": "165156",
+          "course_name": "115",
+          "teacher": "汉化后",
+          "added_time": "2026-03-18T10:40:29.846891",
+          "status": "failed",
+          "attempts": 1,
+          "course_key": "165156|"
+        }
+      ],
+      "results": {
+        "165156|": {
+          "success": false,
+          "name": "115"
+        }
+      },
+      "success_count": 0,
+      "total_count": 1
+    }
+  }
+]

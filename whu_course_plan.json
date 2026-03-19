@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-03-18T10:41:22.803867",
+  "courses": [
+    {
+      "course_id": "165156",
+      "course_name": "115",
+      "teacher": "汉化后",
+      "added_time": "2026-03-18T10:40:29.846891",
+      "status": "failed",
+      "attempts": 1,
+      "course_key": "165156|"
+    }
+  ]
+}
